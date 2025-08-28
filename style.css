@@ -1,0 +1,25 @@
+a{
+
+    cursor: cell;
+    color: yellowgreen;
+}
+
+a:hover {
+color: pink;
+}
+
+.greed{
+    cursor: crosshair;
+    color: violet;
+}
+
+#id{
+    cursor: grab;
+    color: crimson;
+}
+.no{
+    cursor: move;
+    color: cornflowerblue;
+}
+
+
